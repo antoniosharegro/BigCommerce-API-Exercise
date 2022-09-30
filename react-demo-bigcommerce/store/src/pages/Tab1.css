@@ -1,0 +1,38 @@
+.button-style{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.ion-column{
+    border-style: solid;
+}
+
+.ion-column-first{
+    border-style:double;
+    background-color: #3171e0;
+    color: #fff;
+    font-weight:700;
+}
+.title{
+    margin-top: 50px;
+    font-size: 60px;
+    font-weight: 500;
+    margin-left: 680px;
+}
+
+.grid{
+    margin: 0 15px;
+}
+
+.bannercontainer{
+    margin-top: 30px;
+    margin-left: 500px;
+    background-color: #fff;
+    height: 300px;
+    width: 600px;
+}
+
+.imgstyle{
+    margin-left: 30px;
+}
